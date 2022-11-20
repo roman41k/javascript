@@ -7,7 +7,7 @@ if (subscription === "pro") {
    cost = 0;
 }
 
-console.log(cost); */
+console.log(cost); */					
 
 let cost;
 const subscription = "pro";
@@ -17,5 +17,5 @@ if (subscription === "pro") {
 } else {
    cost = 0;
 }
-
+	
 console.log(cost);
